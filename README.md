@@ -48,3 +48,10 @@
 
 설명 : 각 샘플의 정상, 불량을 판정할 수 있는 Y Feature 별 스펙 기준 자료 
 실제 공정 과정에서의 데이터로, 대회 진행을 위해 해당 스펙 값들은 임의 조정된 상태입니다.
+
+## 사용 Tool
+### Pycaret : https://pycaret.org/guide/
+    AutoML을 하게 해주는 파이썬 라이브러리입니다. 
+    scikit-learn 패키지를 기반으로 하고 있으며 Classification, Regression, Clustering, Anomaly Detection 등등 다양한 모델을 지원합니다.
+    PyCaret은 적은 코드로 머신러닝 워크 플로우를 자동화 할 수 있기 때문에
+    머신러닝 모델 개발시 많은 시간을 소요했던 코딩, 전처리, 모델 선택, 파라미터 튜닝 작업을 자동화해주어 쉽고, 높은 생산성의 작업을 가능하게 합니다.
